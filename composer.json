@@ -1,9 +1,9 @@
 {
-    "name": "tplaner/when",
+    "name": "vector/when",
     "type": "library",
     "description": "Date/Calendar recursion library.",
     "keywords": ["recurrence", "date", "time", "DateTime"],
-    "homepage": "https://github.com/tplaner/When",
+    "homepage": "https://github.com/vector/When",
     "license": "MIT",
     "authors": [
         {
